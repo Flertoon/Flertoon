@@ -1,6 +1,6 @@
 ## DMCA & Rights Holders
 
-This project does not host, provide, or distribute any copyrighted materials, software, or media. It merely collects and displays magnet links and download links publicly available on [Hydra]([https://rutracker.org](https://hydralinks.cloud/)), and through the Internet public torrent tracker like TorrentGalaxy.to.
+This project does not host, provide, or distribute any copyrighted materials, software, or media. It merely collects and displays magnet links and download links publicly available on [Hydra](https://hydralinks.cloud/))], and through the Internet public torrent tracker like TorrentGalaxy.to.
 
 I make no claims of ownership or control over the content available through these links. Any copyrighted material accessible through these magnet links remains the responsibility of the respective copyright holders and Rutracker itself. All links were collected automatically.
 
